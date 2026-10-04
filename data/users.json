@@ -1,0 +1,74 @@
+[
+    {
+        "id": "u-admin",
+        "usuario": "admin",
+        "nombre": "Administrador Vuela",
+        "password": "$2y$10$ybJWwjb6AZjQtVveo.KLKue7PYAxQf33XKo2sWud6zpgRQbKr.FnO",
+        "protegido": true,
+        "rol": "Administrador",
+        "activo": true,
+        "creado": "2026-09-27 14:57:43",
+        "last_login": "2026-09-29 00:02:59",
+        "last_ip": "127.0.0.1",
+        "nombre_sesion": "admin"
+    },
+    {
+        "id": "u-a97a426c45f00759",
+        "usuario": "Jhuliano",
+        "nombre": "jhuliano",
+        "password": "$2y$10$.jpwhtu0gVbg3RGYVlvjr.dSsRuXLjZkV06zecU5MN\/zrt\/O\/CQzO",
+        "rol": "ATC",
+        "activo": true,
+        "creado": "2026-09-27 15:13:23",
+        "last_login": "2026-10-01 01:48:47",
+        "last_ip": "127.0.0.1",
+        "nombre_sesion": "Jhuliano"
+    },
+    {
+        "id": "u-7ebb85d6cb5babe8",
+        "usuario": "Felipe",
+        "nombre": "Carlo Felipe Mejia",
+        "password": "$2y$10$nF3Wg4R67gj9M.uApCSHE.NAZPOifS0nTvfi4xc63asXiF0IqXf5O",
+        "rol": "NOC",
+        "activo": true,
+        "creado": "2026-09-27 21:21:20",
+        "last_login": "2026-09-28 23:27:21",
+        "last_ip": "127.0.0.1",
+        "nombre_sesion": "Felipe"
+    },
+    {
+        "id": "u-f5e2885c77a9ea79",
+        "usuario": "Alejandro",
+        "nombre": "Alejandro Siles Merida",
+        "password": "$2y$10$Pbgg54fih8CKuYyv1MZQx.YJYjzRNi\/n9ruFI.JM9fKMzWMhTmbM6",
+        "rol": "ATC",
+        "activo": true,
+        "creado": "2026-09-27 21:43:34",
+        "last_login": null,
+        "last_ip": null
+    },
+    {
+        "id": "u-e375a8be90a4005c",
+        "usuario": "Rossio",
+        "nombre": "Rossio Tola",
+        "password": "$2y$10$WaKIbQMIcTIKJdpn2TPI2uUgaoAJooEFoIdSte7Yxf7p4.IY9epfO",
+        "rol": "ATC",
+        "activo": true,
+        "creado": "2026-09-27 23:23:06",
+        "last_login": "2026-09-28 23:52:48",
+        "last_ip": "127.0.0.1",
+        "nombre_sesion": "Rossio"
+    },
+    {
+        "id": "u-7fa46eb522a4d2b2",
+        "usuario": "Viviana",
+        "nombre": "Viviana Barrionuevo",
+        "password": "$2y$10$1TRqIi72nxFTjX.fLjnXJOk87LB.scXCqyy7UhQo1pxNSlr8lK0RW",
+        "rol": "ATC",
+        "foto": "",
+        "activo": true,
+        "creado": "2026-09-28 23:57:07",
+        "last_login": null,
+        "last_ip": null
+    }
+]

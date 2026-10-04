@@ -1,0 +1,149 @@
+[
+    {
+        "codigo": "VIS-20260927-184300-E591",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 18:43:00",
+        "ultima_visita": "2026-09-27 18:43:00"
+    },
+    {
+        "codigo": "1",
+        "tipo": "cliente",
+        "visitas": 2,
+        "primera_visita": "2026-09-27 18:43:26",
+        "ultima_visita": "2026-09-27 23:20:10"
+    },
+    {
+        "codigo": "VIS-20260927-184545-6FB9",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 18:45:45",
+        "ultima_visita": "2026-09-27 18:45:45"
+    },
+    {
+        "codigo": "VIS-20260927-184551-C03C",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 18:45:51",
+        "ultima_visita": "2026-09-27 18:45:51"
+    },
+    {
+        "codigo": "VIS-20260927-185513-963E",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 18:55:13",
+        "ultima_visita": "2026-09-27 18:55:13"
+    },
+    {
+        "codigo": "VIS-20260927-185532-D3C7",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 18:55:32",
+        "ultima_visita": "2026-09-27 18:55:32"
+    },
+    {
+        "codigo": "VIS-20260927-194121-235B",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 19:41:21",
+        "ultima_visita": "2026-09-27 19:41:21"
+    },
+    {
+        "codigo": "2",
+        "tipo": "cliente",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 19:50:41",
+        "ultima_visita": "2026-09-27 19:50:41"
+    },
+    {
+        "codigo": "VIS-20260927-195155-D0E7",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 19:51:55",
+        "ultima_visita": "2026-09-27 19:51:55"
+    },
+    {
+        "codigo": "VIS-20260927-204024-2BED",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 20:40:24",
+        "ultima_visita": "2026-09-27 20:40:24"
+    },
+    {
+        "codigo": "VIS-20260927-210622-F391",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 21:06:22",
+        "ultima_visita": "2026-09-27 21:06:22"
+    },
+    {
+        "codigo": "12345",
+        "tipo": "cliente",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 22:10:08",
+        "ultima_visita": "2026-09-27 22:10:08"
+    },
+    {
+        "codigo": "VIS-20260927-232025-761B",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-27 23:20:25",
+        "ultima_visita": "2026-09-27 23:20:25"
+    },
+    {
+        "codigo": "VIS-20260928-135710-6075",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-28 13:57:10",
+        "ultima_visita": "2026-09-28 13:57:10"
+    },
+    {
+        "codigo": "78424",
+        "tipo": "cliente",
+        "visitas": 1,
+        "primera_visita": "2026-09-28 20:00:29",
+        "ultima_visita": "2026-09-28 20:00:29"
+    },
+    {
+        "codigo": "VIS-20260928-235442-4390",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-28 23:54:42",
+        "ultima_visita": "2026-09-28 23:54:42"
+    },
+    {
+        "codigo": "VIS-20260929-000559-28FC",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-29 00:05:59",
+        "ultima_visita": "2026-09-29 00:05:59"
+    },
+    {
+        "codigo": "VIS-20260930-222756-3AD1",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-30 22:27:56",
+        "ultima_visita": "2026-09-30 22:27:56"
+    },
+    {
+        "codigo": "VIS-20260930-223216-1509",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-30 22:32:16",
+        "ultima_visita": "2026-09-30 22:32:16"
+    },
+    {
+        "codigo": "VIS-20260930-224817-D99D",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-30 22:48:17",
+        "ultima_visita": "2026-09-30 22:48:17"
+    },
+    {
+        "codigo": "VIS-20260930-225319-1433",
+        "tipo": "visitante",
+        "visitas": 1,
+        "primera_visita": "2026-09-30 22:53:19",
+        "ultima_visita": "2026-09-30 22:53:19"
+    }
+]
